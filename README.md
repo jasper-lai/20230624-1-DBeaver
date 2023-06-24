@@ -1,4 +1,4 @@
-# 如何在 DBeaver Community Edition 23.1.0 遦接至 SAP ASE 16.0
+# 如何在 DBeaver Community Edition 23.1.0 連接至 SAP ASE 16.0
 
 ## 1. 前言
 由於 SAP ASE 16.0 GUI 管理工具, 有的不再提供下載 (Sybase Central), 有的因為 Adobe Flash Player 停用, 而不再提供管理介面 (Cockpit), 有的則可能受限筆者的能力或環境, 一直安裝不起來 (AMC: Administration and Management Center), 故只好找看看有沒有第3方的免費工具可以使用.  
